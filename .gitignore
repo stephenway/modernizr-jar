@@ -10,3 +10,5 @@ tmp
 .DS_Store
 .project
 *.log
+pom*
+target
